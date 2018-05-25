@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xxxtest &#8211; Alex Beck Blog</title>
+	<atom:link href="/news/author/xxxtest/feed" rel="self" type="application/rss+xml" />
+	<link>/news/</link>
+	<description>Your SUPER-powered WP Engine Blog</description>
+	<lastBuildDate>Wed, 23 May 2018 06:08:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>forth page</title>
+		<link>/news/forth-page.html</link>
+		<comments>/news/forth-page.html#respond</comments>
+		<pubDate>Wed, 23 May 2018 06:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[xxxtest]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/news/?p=7</guid>
+		<description><![CDATA[fsdjkfs dfds f dsf ds fds fs df]]></description>
+				<content:encoded><![CDATA[<p>fsdjkfs dfds</p>
+<p>f</p>
+<p>dsf</p>
+<p>ds</p>
+<p>fds</p>
+<p>fs</p>
+<p>df</p>
+]]></content:encoded>
+			<wfw:commentRss>/news/forth-page.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Visible post</title>
+		<link>/news/visible-post.html</link>
+		<comments>/news/visible-post.html#respond</comments>
+		<pubDate>Fri, 02 Mar 2018 18:20:10 +0000</pubDate>
+		<dc:creator><![CDATA[xxxtest]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/news/?p=4</guid>
+		<description><![CDATA[thi is visible page]]></description>
+				<content:encoded><![CDATA[<p>thi is visible page</p>
+]]></content:encoded>
+			<wfw:commentRss>/news/visible-post.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
