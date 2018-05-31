@@ -12,11 +12,11 @@
 	<atom:link href="/news/author/wpengine/feed" rel="self" type="application/rss+xml" />
 	<link>/news/</link>
 	<description>Your SUPER-powered WP Engine Blog</description>
-	<lastBuildDate>Wed, 23 May 2018 06:08:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 May 2018 14:09:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
 		<title>Hello world!</title>
 		<link>/news/hello-world.html</link>
