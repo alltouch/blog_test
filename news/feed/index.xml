@@ -12,12 +12,33 @@
 	<atom:link href="/news/feed" rel="self" type="application/rss+xml" />
 	<link>/news/</link>
 	<description>Your SUPER-powered WP Engine Blog</description>
-	<lastBuildDate>Fri, 02 Mar 2018 18:26:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 May 2018 06:08:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
+		<title>forth page</title>
+		<link>/news/forth-page.html</link>
+		<comments>/news/forth-page.html#respond</comments>
+		<pubDate>Wed, 23 May 2018 06:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[xxxtest]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/news/?p=7</guid>
+		<description><![CDATA[fsdjkfs dfds f dsf ds fds fs df]]></description>
+				<content:encoded><![CDATA[<p>fsdjkfs dfds</p>
+<p>f</p>
+<p>dsf</p>
+<p>ds</p>
+<p>fds</p>
+<p>fs</p>
+<p>df</p>
+]]></content:encoded>
+			<wfw:commentRss>/news/forth-page.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>Visible post</title>
 		<link>/news/visible-post.html</link>
 		<comments>/news/visible-post.html#respond</comments>
