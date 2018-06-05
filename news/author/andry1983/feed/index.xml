@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>wordpress.ua</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>andry1983 &#8211; wordpress.ua</title>
+	<atom:link href="/author/andry1983/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Просто ще один сайт на WordPress</description>
 	<lastBuildDate>Thu, 24 May 2018 15:00:09 +0000</lastBuildDate>
